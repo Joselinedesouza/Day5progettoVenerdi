@@ -1,6 +1,7 @@
 package EsameDelVenerdi;
 
-public class RegistrazioneAudio extends ElementoMultimediale implements Riproducibile {
+public class
+RegistrazioneAudio extends ElementoMultimediale implements Riproducibile {
     private int durata;
     private int volume;
 
